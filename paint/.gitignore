@@ -1,0 +1,11 @@
+# Directorios de build de CMake
+build/
+out/
+cmake-build-*/
+
+# Artefactos
+*.o
+*.obj
+*.exe
+*.pdb
+*.ilk
