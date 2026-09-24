@@ -1,0 +1,25 @@
+Point.PorDefectoValeCeroCero 2 0.00592365
+Point.DosPuntosConLasMismasCoordenadasSonIguales 2 0.00586495
+Point.SiDifiereLaXNoSonIguales 2 0.00565615
+Point.SiDifiereLaYNoSonIguales 2 0.00673365
+ShapeContract.MoveToDejaLaFiguraEnLaPosicionPedida<paint::Circle> 2 0.0055496
+ShapeContract.MoveToNoAlteraNiColorNiArea<paint::Circle> 2 0.0056581
+ShapeContract.CloneTieneElMismoEstadoObservable<paint::Circle> 2 0.0060738
+ShapeContract.MoverElClonNoMueveAlOriginal<paint::Circle> 2 0.00617295
+ShapeContract.ElClonConservaElTipoDinamico<paint::Circle> 2 0.0067512
+ShapeContract.ToStringContieneTipoAreaColorYPosicion<paint::Circle> 2 0.00648665
+ShapeContract.MoveToDejaLaFiguraEnLaPosicionPedida<paint::Square> 2 0.00673975
+ShapeContract.MoveToNoAlteraNiColorNiArea<paint::Square> 2 0.00626465
+ShapeContract.CloneTieneElMismoEstadoObservable<paint::Square> 2 0.005745
+ShapeContract.MoverElClonNoMueveAlOriginal<paint::Square> 2 0.00608675
+ShapeContract.ElClonConservaElTipoDinamico<paint::Square> 2 0.0072733
+ShapeContract.ToStringContieneTipoAreaColorYPosicion<paint::Square> 2 0.0051259
+Circle.ElConstructorDejaColorPosicionYAreaCoherentes 2 0.00615645
+Circle.AreaEsPiPorRadioAlCuadrado 2 0.00699395
+Circle.RadioCeroDaAreaCero 2 0.00677395
+Circle.RadioNegativoLanzaInvalidArgument 0 0
+Square.ElConstructorDejaColorPosicionYAreaCoherentes 2 0.00548895
+Square.AreaEsLadoAlCuadrado 2 0.0070293
+Square.LadoCeroDaAreaCero 2 0.00707555
+Square.LadoNegativoLanzaInvalidArgument 0 0
+---

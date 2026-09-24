@@ -13,3 +13,12 @@ else()
 endif()
 
 add_test(NAME paint_tests COMMAND paint_tests)
+
+# --- Dominio con GoogleTest (Point, contrato IShape, Circle, Square) --------
+find_package(GTest REQUIRED)
+
+add_executable(domain_tests test_domain.cpp)
+target_link_libraries(domain_tests PRIVATE paint_core GTest::gtest_main)
+
+include(GoogleTest)
+gtest_discover_tests(domain_tests)

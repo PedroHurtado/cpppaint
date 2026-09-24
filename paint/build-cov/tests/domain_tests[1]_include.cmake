@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests/domain_tests[1]_tests.cmake")
+  include("C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests/domain_tests[1]_tests.cmake")
+else()
+  add_test(domain_tests_NOT_BUILT domain_tests_NOT_BUILT)
+endif()

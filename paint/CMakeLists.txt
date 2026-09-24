@@ -54,6 +54,14 @@ if(MINGW)
     add_link_options(-static -static-libgcc -static-libstdc++)
 endif()
 
+# --- Cobertura (opcional) ---------------------------------------------------
+# cmake -S . -B build-cov -DCMAKE_BUILD_TYPE=Debug -DPAINT_COVERAGE=ON
+option(PAINT_COVERAGE "Instrumentar paint_core y los tests con gcov" OFF)
+if(PAINT_COVERAGE AND NOT MSVC)
+    target_compile_options(paint_core PUBLIC --coverage -O0)
+    target_link_options(paint_core PUBLIC --coverage)
+endif()
+
 # --- Ejecutable ------------------------------------------------------------
 add_executable(paint src/main.cpp)
 target_link_libraries(paint PRIVATE paint_core)

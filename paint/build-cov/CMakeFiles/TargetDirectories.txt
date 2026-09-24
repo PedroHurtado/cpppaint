@@ -1,0 +1,10 @@
+C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/CMakeFiles/paint_core.dir
+C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/CMakeFiles/paint.dir
+C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/CMakeFiles/test.dir
+C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/CMakeFiles/edit_cache.dir
+C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/CMakeFiles/rebuild_cache.dir
+C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests/CMakeFiles/paint_tests.dir
+C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests/CMakeFiles/domain_tests.dir
+C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests/CMakeFiles/test.dir
+C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests/CMakeFiles/edit_cache.dir
+C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests/CMakeFiles/rebuild_cache.dir

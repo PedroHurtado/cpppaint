@@ -9,4 +9,12 @@ struct Point {
     int y = 0;
 };
 
+/// Igualdad por valor. La pidieron los tests: sin ella ni EXPECT_EQ ni
+/// EXPECT_CALL(shape, MoveTo(Point{7, 8})) saben comparar dos posiciones.
+inline bool operator==(const Point& a, const Point& b) {
+    return a.x == b.x && a.y == b.y;
+}
+
+inline bool operator!=(const Point& a, const Point& b) { return !(a == b); }
+
 }  // namespace paint

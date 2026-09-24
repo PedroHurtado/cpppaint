@@ -1,0 +1,627 @@
+Start testing: Sep 24 10:53 Hora de verano romance
+----------------------------------------------------------
+1/25 Testing: Point.PorDefectoValeCeroCero
+1/25 Test: Point.PorDefectoValeCeroCero
+Command: "C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests/domain_tests.exe" "--gtest_filter=Point.PorDefectoValeCeroCero" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests
+"Point.PorDefectoValeCeroCero" start time: Sep 24 10:53 Hora de verano romance
+Output:
+----------------------------------------------------------
+Running main() from C:/dev/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = Point.PorDefectoValeCeroCero
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Point
+[ RUN      ] Point.PorDefectoValeCeroCero
+[       OK ] Point.PorDefectoValeCeroCero (0 ms)
+[----------] 1 test from Point (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Point.PorDefectoValeCeroCero" end time: Sep 24 10:53 Hora de verano romance
+"Point.PorDefectoValeCeroCero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/25 Testing: Point.DosPuntosConLasMismasCoordenadasSonIguales
+2/25 Test: Point.DosPuntosConLasMismasCoordenadasSonIguales
+Command: "C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests/domain_tests.exe" "--gtest_filter=Point.DosPuntosConLasMismasCoordenadasSonIguales" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests
+"Point.DosPuntosConLasMismasCoordenadasSonIguales" start time: Sep 24 10:53 Hora de verano romance
+Output:
+----------------------------------------------------------
+Running main() from C:/dev/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = Point.DosPuntosConLasMismasCoordenadasSonIguales
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Point
+[ RUN      ] Point.DosPuntosConLasMismasCoordenadasSonIguales
+[       OK ] Point.DosPuntosConLasMismasCoordenadasSonIguales (0 ms)
+[----------] 1 test from Point (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Point.DosPuntosConLasMismasCoordenadasSonIguales" end time: Sep 24 10:53 Hora de verano romance
+"Point.DosPuntosConLasMismasCoordenadasSonIguales" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/25 Testing: Point.SiDifiereLaXNoSonIguales
+3/25 Test: Point.SiDifiereLaXNoSonIguales
+Command: "C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests/domain_tests.exe" "--gtest_filter=Point.SiDifiereLaXNoSonIguales" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests
+"Point.SiDifiereLaXNoSonIguales" start time: Sep 24 10:53 Hora de verano romance
+Output:
+----------------------------------------------------------
+Running main() from C:/dev/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = Point.SiDifiereLaXNoSonIguales
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Point
+[ RUN      ] Point.SiDifiereLaXNoSonIguales
+[       OK ] Point.SiDifiereLaXNoSonIguales (0 ms)
+[----------] 1 test from Point (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Point.SiDifiereLaXNoSonIguales" end time: Sep 24 10:53 Hora de verano romance
+"Point.SiDifiereLaXNoSonIguales" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/25 Testing: Point.SiDifiereLaYNoSonIguales
+4/25 Test: Point.SiDifiereLaYNoSonIguales
+Command: "C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests/domain_tests.exe" "--gtest_filter=Point.SiDifiereLaYNoSonIguales" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests
+"Point.SiDifiereLaYNoSonIguales" start time: Sep 24 10:53 Hora de verano romance
+Output:
+----------------------------------------------------------
+Running main() from C:/dev/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = Point.SiDifiereLaYNoSonIguales
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Point
+[ RUN      ] Point.SiDifiereLaYNoSonIguales
+[       OK ] Point.SiDifiereLaYNoSonIguales (0 ms)
+[----------] 1 test from Point (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Point.SiDifiereLaYNoSonIguales" end time: Sep 24 10:53 Hora de verano romance
+"Point.SiDifiereLaYNoSonIguales" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/25 Testing: ShapeContract.MoveToDejaLaFiguraEnLaPosicionPedida<paint::Circle>
+5/25 Test: ShapeContract.MoveToDejaLaFiguraEnLaPosicionPedida<paint::Circle>
+Command: "C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests/domain_tests.exe" "--gtest_filter=ShapeContract/0.MoveToDejaLaFiguraEnLaPosicionPedida" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests
+"ShapeContract.MoveToDejaLaFiguraEnLaPosicionPedida<paint::Circle>" start time: Sep 24 10:53 Hora de verano romance
+Output:
+----------------------------------------------------------
+Running main() from C:/dev/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = ShapeContract/0.MoveToDejaLaFiguraEnLaPosicionPedida
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ShapeContract/0, where TypeParam = paint::Circle
+[ RUN      ] ShapeContract/0.MoveToDejaLaFiguraEnLaPosicionPedida
+[       OK ] ShapeContract/0.MoveToDejaLaFiguraEnLaPosicionPedida (0 ms)
+[----------] 1 test from ShapeContract/0 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ShapeContract.MoveToDejaLaFiguraEnLaPosicionPedida<paint::Circle>" end time: Sep 24 10:53 Hora de verano romance
+"ShapeContract.MoveToDejaLaFiguraEnLaPosicionPedida<paint::Circle>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/25 Testing: ShapeContract.MoveToNoAlteraNiColorNiArea<paint::Circle>
+6/25 Test: ShapeContract.MoveToNoAlteraNiColorNiArea<paint::Circle>
+Command: "C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests/domain_tests.exe" "--gtest_filter=ShapeContract/0.MoveToNoAlteraNiColorNiArea" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests
+"ShapeContract.MoveToNoAlteraNiColorNiArea<paint::Circle>" start time: Sep 24 10:53 Hora de verano romance
+Output:
+----------------------------------------------------------
+Running main() from C:/dev/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = ShapeContract/0.MoveToNoAlteraNiColorNiArea
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ShapeContract/0, where TypeParam = paint::Circle
+[ RUN      ] ShapeContract/0.MoveToNoAlteraNiColorNiArea
+[       OK ] ShapeContract/0.MoveToNoAlteraNiColorNiArea (0 ms)
+[----------] 1 test from ShapeContract/0 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ShapeContract.MoveToNoAlteraNiColorNiArea<paint::Circle>" end time: Sep 24 10:53 Hora de verano romance
+"ShapeContract.MoveToNoAlteraNiColorNiArea<paint::Circle>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/25 Testing: ShapeContract.CloneTieneElMismoEstadoObservable<paint::Circle>
+7/25 Test: ShapeContract.CloneTieneElMismoEstadoObservable<paint::Circle>
+Command: "C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests/domain_tests.exe" "--gtest_filter=ShapeContract/0.CloneTieneElMismoEstadoObservable" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests
+"ShapeContract.CloneTieneElMismoEstadoObservable<paint::Circle>" start time: Sep 24 10:53 Hora de verano romance
+Output:
+----------------------------------------------------------
+Running main() from C:/dev/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = ShapeContract/0.CloneTieneElMismoEstadoObservable
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ShapeContract/0, where TypeParam = paint::Circle
+[ RUN      ] ShapeContract/0.CloneTieneElMismoEstadoObservable
+[       OK ] ShapeContract/0.CloneTieneElMismoEstadoObservable (0 ms)
+[----------] 1 test from ShapeContract/0 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ShapeContract.CloneTieneElMismoEstadoObservable<paint::Circle>" end time: Sep 24 10:53 Hora de verano romance
+"ShapeContract.CloneTieneElMismoEstadoObservable<paint::Circle>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/25 Testing: ShapeContract.MoverElClonNoMueveAlOriginal<paint::Circle>
+8/25 Test: ShapeContract.MoverElClonNoMueveAlOriginal<paint::Circle>
+Command: "C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests/domain_tests.exe" "--gtest_filter=ShapeContract/0.MoverElClonNoMueveAlOriginal" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests
+"ShapeContract.MoverElClonNoMueveAlOriginal<paint::Circle>" start time: Sep 24 10:53 Hora de verano romance
+Output:
+----------------------------------------------------------
+Running main() from C:/dev/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = ShapeContract/0.MoverElClonNoMueveAlOriginal
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ShapeContract/0, where TypeParam = paint::Circle
+[ RUN      ] ShapeContract/0.MoverElClonNoMueveAlOriginal
+[       OK ] ShapeContract/0.MoverElClonNoMueveAlOriginal (0 ms)
+[----------] 1 test from ShapeContract/0 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ShapeContract.MoverElClonNoMueveAlOriginal<paint::Circle>" end time: Sep 24 10:53 Hora de verano romance
+"ShapeContract.MoverElClonNoMueveAlOriginal<paint::Circle>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/25 Testing: ShapeContract.ElClonConservaElTipoDinamico<paint::Circle>
+9/25 Test: ShapeContract.ElClonConservaElTipoDinamico<paint::Circle>
+Command: "C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests/domain_tests.exe" "--gtest_filter=ShapeContract/0.ElClonConservaElTipoDinamico" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests
+"ShapeContract.ElClonConservaElTipoDinamico<paint::Circle>" start time: Sep 24 10:53 Hora de verano romance
+Output:
+----------------------------------------------------------
+Running main() from C:/dev/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = ShapeContract/0.ElClonConservaElTipoDinamico
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ShapeContract/0, where TypeParam = paint::Circle
+[ RUN      ] ShapeContract/0.ElClonConservaElTipoDinamico
+[       OK ] ShapeContract/0.ElClonConservaElTipoDinamico (0 ms)
+[----------] 1 test from ShapeContract/0 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ShapeContract.ElClonConservaElTipoDinamico<paint::Circle>" end time: Sep 24 10:53 Hora de verano romance
+"ShapeContract.ElClonConservaElTipoDinamico<paint::Circle>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/25 Testing: ShapeContract.ToStringContieneTipoAreaColorYPosicion<paint::Circle>
+10/25 Test: ShapeContract.ToStringContieneTipoAreaColorYPosicion<paint::Circle>
+Command: "C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests/domain_tests.exe" "--gtest_filter=ShapeContract/0.ToStringContieneTipoAreaColorYPosicion" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests
+"ShapeContract.ToStringContieneTipoAreaColorYPosicion<paint::Circle>" start time: Sep 24 10:53 Hora de verano romance
+Output:
+----------------------------------------------------------
+Running main() from C:/dev/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = ShapeContract/0.ToStringContieneTipoAreaColorYPosicion
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ShapeContract/0, where TypeParam = paint::Circle
+[ RUN      ] ShapeContract/0.ToStringContieneTipoAreaColorYPosicion
+[       OK ] ShapeContract/0.ToStringContieneTipoAreaColorYPosicion (0 ms)
+[----------] 1 test from ShapeContract/0 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ShapeContract.ToStringContieneTipoAreaColorYPosicion<paint::Circle>" end time: Sep 24 10:53 Hora de verano romance
+"ShapeContract.ToStringContieneTipoAreaColorYPosicion<paint::Circle>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/25 Testing: ShapeContract.MoveToDejaLaFiguraEnLaPosicionPedida<paint::Square>
+11/25 Test: ShapeContract.MoveToDejaLaFiguraEnLaPosicionPedida<paint::Square>
+Command: "C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests/domain_tests.exe" "--gtest_filter=ShapeContract/1.MoveToDejaLaFiguraEnLaPosicionPedida" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests
+"ShapeContract.MoveToDejaLaFiguraEnLaPosicionPedida<paint::Square>" start time: Sep 24 10:53 Hora de verano romance
+Output:
+----------------------------------------------------------
+Running main() from C:/dev/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = ShapeContract/1.MoveToDejaLaFiguraEnLaPosicionPedida
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ShapeContract/1, where TypeParam = paint::Square
+[ RUN      ] ShapeContract/1.MoveToDejaLaFiguraEnLaPosicionPedida
+[       OK ] ShapeContract/1.MoveToDejaLaFiguraEnLaPosicionPedida (0 ms)
+[----------] 1 test from ShapeContract/1 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ShapeContract.MoveToDejaLaFiguraEnLaPosicionPedida<paint::Square>" end time: Sep 24 10:53 Hora de verano romance
+"ShapeContract.MoveToDejaLaFiguraEnLaPosicionPedida<paint::Square>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/25 Testing: ShapeContract.MoveToNoAlteraNiColorNiArea<paint::Square>
+12/25 Test: ShapeContract.MoveToNoAlteraNiColorNiArea<paint::Square>
+Command: "C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests/domain_tests.exe" "--gtest_filter=ShapeContract/1.MoveToNoAlteraNiColorNiArea" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests
+"ShapeContract.MoveToNoAlteraNiColorNiArea<paint::Square>" start time: Sep 24 10:53 Hora de verano romance
+Output:
+----------------------------------------------------------
+Running main() from C:/dev/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = ShapeContract/1.MoveToNoAlteraNiColorNiArea
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ShapeContract/1, where TypeParam = paint::Square
+[ RUN      ] ShapeContract/1.MoveToNoAlteraNiColorNiArea
+[       OK ] ShapeContract/1.MoveToNoAlteraNiColorNiArea (0 ms)
+[----------] 1 test from ShapeContract/1 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ShapeContract.MoveToNoAlteraNiColorNiArea<paint::Square>" end time: Sep 24 10:53 Hora de verano romance
+"ShapeContract.MoveToNoAlteraNiColorNiArea<paint::Square>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/25 Testing: ShapeContract.CloneTieneElMismoEstadoObservable<paint::Square>
+13/25 Test: ShapeContract.CloneTieneElMismoEstadoObservable<paint::Square>
+Command: "C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests/domain_tests.exe" "--gtest_filter=ShapeContract/1.CloneTieneElMismoEstadoObservable" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests
+"ShapeContract.CloneTieneElMismoEstadoObservable<paint::Square>" start time: Sep 24 10:53 Hora de verano romance
+Output:
+----------------------------------------------------------
+Running main() from C:/dev/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = ShapeContract/1.CloneTieneElMismoEstadoObservable
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ShapeContract/1, where TypeParam = paint::Square
+[ RUN      ] ShapeContract/1.CloneTieneElMismoEstadoObservable
+[       OK ] ShapeContract/1.CloneTieneElMismoEstadoObservable (0 ms)
+[----------] 1 test from ShapeContract/1 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ShapeContract.CloneTieneElMismoEstadoObservable<paint::Square>" end time: Sep 24 10:53 Hora de verano romance
+"ShapeContract.CloneTieneElMismoEstadoObservable<paint::Square>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/25 Testing: ShapeContract.MoverElClonNoMueveAlOriginal<paint::Square>
+14/25 Test: ShapeContract.MoverElClonNoMueveAlOriginal<paint::Square>
+Command: "C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests/domain_tests.exe" "--gtest_filter=ShapeContract/1.MoverElClonNoMueveAlOriginal" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests
+"ShapeContract.MoverElClonNoMueveAlOriginal<paint::Square>" start time: Sep 24 10:53 Hora de verano romance
+Output:
+----------------------------------------------------------
+Running main() from C:/dev/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = ShapeContract/1.MoverElClonNoMueveAlOriginal
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ShapeContract/1, where TypeParam = paint::Square
+[ RUN      ] ShapeContract/1.MoverElClonNoMueveAlOriginal
+[       OK ] ShapeContract/1.MoverElClonNoMueveAlOriginal (0 ms)
+[----------] 1 test from ShapeContract/1 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ShapeContract.MoverElClonNoMueveAlOriginal<paint::Square>" end time: Sep 24 10:53 Hora de verano romance
+"ShapeContract.MoverElClonNoMueveAlOriginal<paint::Square>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/25 Testing: ShapeContract.ElClonConservaElTipoDinamico<paint::Square>
+15/25 Test: ShapeContract.ElClonConservaElTipoDinamico<paint::Square>
+Command: "C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests/domain_tests.exe" "--gtest_filter=ShapeContract/1.ElClonConservaElTipoDinamico" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests
+"ShapeContract.ElClonConservaElTipoDinamico<paint::Square>" start time: Sep 24 10:53 Hora de verano romance
+Output:
+----------------------------------------------------------
+Running main() from C:/dev/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = ShapeContract/1.ElClonConservaElTipoDinamico
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ShapeContract/1, where TypeParam = paint::Square
+[ RUN      ] ShapeContract/1.ElClonConservaElTipoDinamico
+[       OK ] ShapeContract/1.ElClonConservaElTipoDinamico (0 ms)
+[----------] 1 test from ShapeContract/1 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ShapeContract.ElClonConservaElTipoDinamico<paint::Square>" end time: Sep 24 10:53 Hora de verano romance
+"ShapeContract.ElClonConservaElTipoDinamico<paint::Square>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/25 Testing: ShapeContract.ToStringContieneTipoAreaColorYPosicion<paint::Square>
+16/25 Test: ShapeContract.ToStringContieneTipoAreaColorYPosicion<paint::Square>
+Command: "C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests/domain_tests.exe" "--gtest_filter=ShapeContract/1.ToStringContieneTipoAreaColorYPosicion" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests
+"ShapeContract.ToStringContieneTipoAreaColorYPosicion<paint::Square>" start time: Sep 24 10:53 Hora de verano romance
+Output:
+----------------------------------------------------------
+Running main() from C:/dev/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = ShapeContract/1.ToStringContieneTipoAreaColorYPosicion
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ShapeContract/1, where TypeParam = paint::Square
+[ RUN      ] ShapeContract/1.ToStringContieneTipoAreaColorYPosicion
+[       OK ] ShapeContract/1.ToStringContieneTipoAreaColorYPosicion (0 ms)
+[----------] 1 test from ShapeContract/1 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ShapeContract.ToStringContieneTipoAreaColorYPosicion<paint::Square>" end time: Sep 24 10:53 Hora de verano romance
+"ShapeContract.ToStringContieneTipoAreaColorYPosicion<paint::Square>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/25 Testing: Circle.ElConstructorDejaColorPosicionYAreaCoherentes
+17/25 Test: Circle.ElConstructorDejaColorPosicionYAreaCoherentes
+Command: "C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests/domain_tests.exe" "--gtest_filter=Circle.ElConstructorDejaColorPosicionYAreaCoherentes" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests
+"Circle.ElConstructorDejaColorPosicionYAreaCoherentes" start time: Sep 24 10:53 Hora de verano romance
+Output:
+----------------------------------------------------------
+Running main() from C:/dev/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = Circle.ElConstructorDejaColorPosicionYAreaCoherentes
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Circle
+[ RUN      ] Circle.ElConstructorDejaColorPosicionYAreaCoherentes
+[       OK ] Circle.ElConstructorDejaColorPosicionYAreaCoherentes (0 ms)
+[----------] 1 test from Circle (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Circle.ElConstructorDejaColorPosicionYAreaCoherentes" end time: Sep 24 10:53 Hora de verano romance
+"Circle.ElConstructorDejaColorPosicionYAreaCoherentes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/25 Testing: Circle.AreaEsPiPorRadioAlCuadrado
+18/25 Test: Circle.AreaEsPiPorRadioAlCuadrado
+Command: "C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests/domain_tests.exe" "--gtest_filter=Circle.AreaEsPiPorRadioAlCuadrado" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests
+"Circle.AreaEsPiPorRadioAlCuadrado" start time: Sep 24 10:53 Hora de verano romance
+Output:
+----------------------------------------------------------
+Running main() from C:/dev/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = Circle.AreaEsPiPorRadioAlCuadrado
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Circle
+[ RUN      ] Circle.AreaEsPiPorRadioAlCuadrado
+[       OK ] Circle.AreaEsPiPorRadioAlCuadrado (0 ms)
+[----------] 1 test from Circle (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Circle.AreaEsPiPorRadioAlCuadrado" end time: Sep 24 10:53 Hora de verano romance
+"Circle.AreaEsPiPorRadioAlCuadrado" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/25 Testing: Circle.RadioCeroDaAreaCero
+19/25 Test: Circle.RadioCeroDaAreaCero
+Command: "C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests/domain_tests.exe" "--gtest_filter=Circle.RadioCeroDaAreaCero" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests
+"Circle.RadioCeroDaAreaCero" start time: Sep 24 10:53 Hora de verano romance
+Output:
+----------------------------------------------------------
+Running main() from C:/dev/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = Circle.RadioCeroDaAreaCero
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Circle
+[ RUN      ] Circle.RadioCeroDaAreaCero
+[       OK ] Circle.RadioCeroDaAreaCero (0 ms)
+[----------] 1 test from Circle (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Circle.RadioCeroDaAreaCero" end time: Sep 24 10:53 Hora de verano romance
+"Circle.RadioCeroDaAreaCero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/25 Testing: Circle.RadioNegativoLanzaInvalidArgument
+20/25 Test: Circle.RadioNegativoLanzaInvalidArgument
+Command: ""
+Directory: C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests
+"Circle.RadioNegativoLanzaInvalidArgument" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Circle.RadioNegativoLanzaInvalidArgument" end time: Sep 24 10:53 Hora de verano romance
+"Circle.RadioNegativoLanzaInvalidArgument" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/25 Testing: Square.ElConstructorDejaColorPosicionYAreaCoherentes
+21/25 Test: Square.ElConstructorDejaColorPosicionYAreaCoherentes
+Command: "C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests/domain_tests.exe" "--gtest_filter=Square.ElConstructorDejaColorPosicionYAreaCoherentes" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests
+"Square.ElConstructorDejaColorPosicionYAreaCoherentes" start time: Sep 24 10:53 Hora de verano romance
+Output:
+----------------------------------------------------------
+Running main() from C:/dev/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = Square.ElConstructorDejaColorPosicionYAreaCoherentes
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Square
+[ RUN      ] Square.ElConstructorDejaColorPosicionYAreaCoherentes
+[       OK ] Square.ElConstructorDejaColorPosicionYAreaCoherentes (0 ms)
+[----------] 1 test from Square (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Square.ElConstructorDejaColorPosicionYAreaCoherentes" end time: Sep 24 10:53 Hora de verano romance
+"Square.ElConstructorDejaColorPosicionYAreaCoherentes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/25 Testing: Square.AreaEsLadoAlCuadrado
+22/25 Test: Square.AreaEsLadoAlCuadrado
+Command: "C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests/domain_tests.exe" "--gtest_filter=Square.AreaEsLadoAlCuadrado" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests
+"Square.AreaEsLadoAlCuadrado" start time: Sep 24 10:53 Hora de verano romance
+Output:
+----------------------------------------------------------
+Running main() from C:/dev/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = Square.AreaEsLadoAlCuadrado
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Square
+[ RUN      ] Square.AreaEsLadoAlCuadrado
+[       OK ] Square.AreaEsLadoAlCuadrado (0 ms)
+[----------] 1 test from Square (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Square.AreaEsLadoAlCuadrado" end time: Sep 24 10:53 Hora de verano romance
+"Square.AreaEsLadoAlCuadrado" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/25 Testing: Square.LadoCeroDaAreaCero
+23/25 Test: Square.LadoCeroDaAreaCero
+Command: "C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests/domain_tests.exe" "--gtest_filter=Square.LadoCeroDaAreaCero" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests
+"Square.LadoCeroDaAreaCero" start time: Sep 24 10:53 Hora de verano romance
+Output:
+----------------------------------------------------------
+Running main() from C:/dev/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = Square.LadoCeroDaAreaCero
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Square
+[ RUN      ] Square.LadoCeroDaAreaCero
+[       OK ] Square.LadoCeroDaAreaCero (0 ms)
+[----------] 1 test from Square (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Square.LadoCeroDaAreaCero" end time: Sep 24 10:53 Hora de verano romance
+"Square.LadoCeroDaAreaCero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/25 Testing: Square.LadoNegativoLanzaInvalidArgument
+24/25 Test: Square.LadoNegativoLanzaInvalidArgument
+Command: ""
+Directory: C:/Users/Home/Documents/Cursos 2026/09-septiembre/02-c++-oesia/02-Patrones c++/paint/build-cov/tests
+"Square.LadoNegativoLanzaInvalidArgument" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Square.LadoNegativoLanzaInvalidArgument" end time: Sep 24 10:53 Hora de verano romance
+"Square.LadoNegativoLanzaInvalidArgument" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 24 10:53 Hora de verano romance
